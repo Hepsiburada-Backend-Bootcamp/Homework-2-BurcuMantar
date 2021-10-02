@@ -11,19 +11,19 @@
 >All request controlled from this controller.
 >More information have given above the all action as comments.
 >
-><img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/DoctorController.png"/>
+><img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-2-BurcuMantar/blob/master/Homework-2-BurcuMantar/Images/DoctorSwg.png"/>
 
 #### HospitalController
 >All request controlled from this controller.
 >More information have given above the all action as comments.
 >
-><img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/DoctorController.png"/>
+><img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-2-BurcuMantar/blob/master/Homework-2-BurcuMantar/Images/HospitalSwg.png"/>
 
 #### PatientController
 >All request controlled from this controller.
 >More information have given above the all action as comments.
 
-<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/DoctorController.png"/>
+<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-2-BurcuMantar/blob/master/Homework-2-BurcuMantar/Images/PatientSwg.png"/>
 
 ## Models
 #### Entities
@@ -42,10 +42,16 @@
 #### Serilog,Seq and Docker photos
 >Docker Desktop Installed.
 >Deployed my project to Docker, and visualized my project log datas on Seq via Docker.
->
-<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/Schemas.png"/>
-<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/Schemas.png"/>
-<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/Schemas.png"/>
+
+>>Log datas visualized via Console
+<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-2-BurcuMantar/blob/master/Homework-2-BurcuMantar/Images/DoctorControlLogData.png"/>
+
+>>Log datas visualized via JsonFile
+<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-2-BurcuMantar/blob/master/Homework-2-BurcuMantar/Images/LogJsonType.png"/>
+
+>>Log datas visualized via Seq visualizer
+
+<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-2-BurcuMantar/blob/master/Homework-2-BurcuMantar/Images/Seq.png"/>
 
 
 #### Packages Installed
