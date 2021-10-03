@@ -34,7 +34,7 @@
 
 >Hospital
 
->Patien
+>Patient
 
 >DoctorPatients
 
